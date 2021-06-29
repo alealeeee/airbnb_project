@@ -24,7 +24,7 @@ The final results is composed of three parts:
 2. Best type of property with highest ratings 
 3. Best ratings with information on which ammenities were used, for how many guests, how many bedrooms and baths
 
-——— HOW TO USE THE CODE——-
+——————HOW TO USE THE CODE——————
 
 There are 3 files within this repository.
 
