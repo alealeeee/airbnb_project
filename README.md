@@ -1,6 +1,6 @@
 # airbnb_project
 
-irbnb Analysis for an asset management company
+Airbnb Analysis for an asset management company
 
 Group Project ID: - using web scrapping the user can run different locations for various dates in order to assess which properties give the highest return for a possible investment by the asset management company 
 
