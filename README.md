@@ -30,9 +30,9 @@ There are 3 files within this repository.
 
 This file (README.md) is used to give the project description and the instructions on how to run the code and assess its application to the real world done by the student.
 
-Two files contain code: (AD_project_code.ipynb) and (AD_project.ipynb). ((AD_project_code.ipynb)) is the file that is binding and can be tested and used by the professor.  (AD_project.ipynb) only provides the professor with an example of how the student uses the code in a real life example with the implications that can be drawn from it.
+Two files contain code: (AD_project_code.ipynb) and (AD_project.ipynb). (AD_project_code.ipynb) is the file that is binding and can be tested and used by the professor.  (AD_project.ipynb) only provides the professor with an example of how the student uses the code in a real life example with the implications that can be drawn from it. In order to run the code of the (AD_project_code.ipynb) file please download the zip-file from this github repo and access the file through a jupyter notebook or Google collab and run all the cells to see the results.
 
-No data file needs to be downloaded as the code entails how to access the information and stored inside the file as a data frame. The user has to make sure that she/he has the latest python3 as well as pandas, bs4 and requests libraries downloaded.
+No data file needs to be downloaded as the code entails how to access the information and stored inside the file as a data frame. The user has to make sure that she/he has the latest python3 as well as pandas, bs4 and requests libraries downloaded. 
 
 Hope you will enjoy the coding experience :)
 
